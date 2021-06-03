@@ -1,4 +1,2 @@
-# Wagan
-My
-gees
-/hello: KX2o-SonGoku
+Wagan
+@import file:///Users/kademercer/Library/Application%20Support/BetterDiscord/themes/best%20moment%20in%20dbs.jpeg
